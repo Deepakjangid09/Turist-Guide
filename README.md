@@ -3,8 +3,8 @@
 ## ✅ Features:
 1. **Search location:**  
    Quickly search products by their name.
-2. **Sorting:**  
-   Sort products in each category by price (Low to High / High to Low).
+2. **Sorting Price:**  
+   Sort location in each category by price (Low to High / High to Low).
 
 3. **Profile Section:**  
    A sample profile section showing basic user info.
